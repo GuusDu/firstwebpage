@@ -1,0 +1,40 @@
+h1 {
+color: silver;
+font-style: italic;
+background-color: black;
+font-size: 3em;
+margin: 15px;
+padding: 30px;
+border-left-width: 10px;
+border-right-width: 10px;
+border-top-width: 5px;
+border-bottom-width: 5px;
+border-style: solid;
+border-color: red;
+box-shadow: 8px 8px 3px 2px #999;
+border-radius: 25px;
+}
+h2 {
+	color: silver;
+	margin: 4px;
+	padding: 4px;
+	background-color: navy;
+	border-bottom-style: solid;
+	border-bottom-width: 8px;
+	border-bottom-color: silver;
+}
+
+p {
+	font-size: 14px;
+	color: navy;
+}
+li {
+	color: navy;
+}
+table, th, td {
+	border: 3px solid orange;
+	color: navy;
+	background-color: gainsboro;
+	}
+	body {
+		background-color: #82ccdd;
